@@ -12,6 +12,15 @@
     color: rgba(12, 2, 124, .6);
     text-shadow: 4px 4px 10px darkblue;
 }
+.random{
+    border: 0;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: brown;
+    color: lightblue;
+    font-size: xx-large;
+    cursor: pointer;
+}
 #day{
     display: flex;
     justify-content: center;
@@ -25,4 +34,15 @@
     align-items: center;
     flex-direction: column;
     min-height: 100vh;
+}
+#günn{
+    font-size: x-large;
+}
+#day{
+    font-size: xx-large;
+    font-weight: 900;
+}
+.yeni{
+    font-weight: 900;
+    font-size: xx-large;
 }

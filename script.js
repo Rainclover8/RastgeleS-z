@@ -1,5 +1,6 @@
 const day = document.getElementById('day')
 const randomBtn = document.querySelector('.random')
+const GüncelGün = document.getElementById('günn')
 
 deneme = new Date;
 
@@ -27,6 +28,8 @@ let gün = deneme.getDay()
 console.log(sözler[gün]); 
 let olay = sözler[gün]
 // console.log(gün);
+
+GüncelGün.innerHTML = `Gün #${gün}`
 
 function günüYenile(){
    setTimeout(() =>{
