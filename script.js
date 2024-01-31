@@ -11,8 +11,10 @@ let sözler = [
 
 `Meğer hayat dediğin sadece gözlerinden ibaretmiş.`,
     
-`Seni yıldızlar sönene kadar seveceğim, sevgilim.`,
+`Kim tanır bizi şimdiden sonra ?`,
     
+`Daimi mutluluk kendinde bulduğundur `,
+
 `Unutulmak kadar acıdır bazen yaşamak.`,
 
 `Karakteri menfaatlerine göre şekillenen insanlar var.`,
@@ -20,7 +22,6 @@ let sözler = [
 `Sen aklım ve kalbim arasında kalan en güzel çaresizliğimsin.`,
 
 `Ömrü bitene kadar sevmeli insan. Menfaatleri bitene kadar değil.`,
-
 ]
 
 
