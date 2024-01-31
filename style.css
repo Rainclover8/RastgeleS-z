@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.baslik{
+    text-align: center;
+    justify-content: center;
+    font-size: xx-large;
+    color: rgba(12, 2, 124, .6);
+    text-shadow: 4px 4px 10px darkblue;
+}
+#day{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+
+.ortala{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
