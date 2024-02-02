@@ -7,11 +7,11 @@ deneme = new Date;
 console.log(deneme);
 
 let sözler = [
-`Ben ağlarken yanımda yoksan, ben gülerken de gölge yapma.`,
-
-`Meğer hayat dediğin sadece gözlerinden ibaretmiş.`,
-    
 `Kim tanır bizi şimdiden sonra ?`,
+   
+`Meğer hayat dediğin sadece gözlerinden ibaretmiş.`,
+   
+`Ben ağlarken yanımda yoksan, ben gülerken de gölge yapma.`,
     
 `Daimi mutluluk kendinde bulduğundur `,
 
@@ -23,6 +23,8 @@ let sözler = [
 
 `Ömrü bitene kadar sevmeli insan. Menfaatleri bitene kadar değil.`,
 ]
+
+
 
 
 let gün = deneme.getDay()
@@ -47,4 +49,3 @@ randomBtn.addEventListener('click', ()=>{
    newWrite.innerHTML = `" ${rastgeleSözBtn} "`
    console.log(random);
 })
-
